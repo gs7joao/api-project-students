@@ -1,8 +1,7 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Estudos Laravel
 
+> - Projeto para estudos criando e consumindo API de estudantes utilizando Laravel com documentação da Twilio.
 
-## Laravel
-- Projeto para estudos criando e consumindo API de estudantes utilizando Laravel com documentação da Twilio.
 
 ```bash
  TITLE                  METHOD     URL                                   PARAMS
@@ -13,10 +12,6 @@
  Update Student         PUT        http://localhost:8000/api/students/{id}
  Delete Student         DELETE     http://localhost:8000/api/students/{id}
 ```
-
-## Tecnologias
-
-[![My Skills](https://skills.thijs.gg/icons?i=laravel,postman)](https://skills.thijs.gg)
 
 
 ## Contato
